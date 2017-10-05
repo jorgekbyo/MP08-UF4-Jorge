@@ -33,6 +33,6 @@
    }
    
    public function fantasma(){
-       echo 'Hola';
+       echo 'Adios';
    }
    

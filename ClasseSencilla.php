@@ -23,3 +23,8 @@
     }
     public function metode1 (){
 }
+
+    public function metode2(){
+        
+    }
+  

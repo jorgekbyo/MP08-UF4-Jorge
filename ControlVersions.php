@@ -6,5 +6,4 @@
  * and open the template in the editor.
  */
 
-echo "var";
-
+echo "Buenos Dias";

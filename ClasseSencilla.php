@@ -21,5 +21,5 @@
     public function mostrarVar() {
         echo $this->var;
     }
+    public function metode1 (){
 }
-
